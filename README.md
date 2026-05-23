@@ -1,4 +1,4 @@
-# Image to Diagram
+# Diagram Tools
 
 ![Version](https://img.shields.io/badge/version-0.1.0-blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.7-blue)
@@ -6,7 +6,7 @@
 ![React](https://img.shields.io/badge/React-18-61dafb)
 ![Tests](https://img.shields.io/badge/tests-Vitest-green)
 
-Desktop Electron app that converts public image URLs into editable diagram Markdown. Users can queue JPG, PNG, BMP, or SVG images, send them to an LM Studio, OpenAI-compatible, or Anthropic-compatible vision endpoint, preview the generated diagram code, and save or reopen Markdown files locally.
+Vibecoded Desktop Electron app that converts public image URLs into editable diagram Markdown. Users can queue JPG, PNG, BMP, or SVG images, send them to an LM Studio, OpenAI-compatible, or Anthropic-compatible vision endpoint, preview the generated diagram code, and save or reopen Markdown files locally.
 
 Primary feature documentation is in [specs/001-image-to-diagram/spec.md](specs/001-image-to-diagram/spec.md), with implementation notes in [plan.md](specs/001-image-to-diagram/plan.md), [quickstart.md](specs/001-image-to-diagram/quickstart.md), and [tasks.md](specs/001-image-to-diagram/tasks.md).
 
